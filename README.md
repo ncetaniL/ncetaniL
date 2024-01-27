@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Computer Science At TUT**
 
-⚡ Fun fact: **It is impossible for most people to lick their own elbow....haha I made you try to lick your elbow :-)**
+⚡ Fun fact: **It is impossible for most people to lick their own elbow....haha made you try to lick your elbow :-)**
 
  </div>
  
