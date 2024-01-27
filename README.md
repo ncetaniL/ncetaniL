@@ -22,7 +22,7 @@
   <a href="ncetanis11@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://instagram.com/in/BXBY_LORNAY" target="_blank">
+  <a href="https://instagram.com/bxby_lornay" target="_blank">
     <img src="https://img.shields.io/badge/instagram-0077B5?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
   </a>
   <a href="https://ncetaniL.github.io" target="_blank">
